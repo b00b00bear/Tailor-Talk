@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.tabStopWidth": 8,
+  "editor.tabSize": 2,
+  "workbench.editor.closeEmptyGroups": true,
+  "editor.detectIndentation": false
+}
